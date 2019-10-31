@@ -1,5 +1,4 @@
 # ZadanieDamian
-# install all modules itd. 
 # Run npm install will install all modules listed as dependencies in package.json
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.15.
 
